@@ -1,1 +1,1 @@
-# L-J-Creative
+# L & J Creative
