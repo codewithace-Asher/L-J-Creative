@@ -3,3 +3,46 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+html {
+	scroll-behavior: smooth;
+	background-color: #FAF3E1;
+}
+
+p {
+	font-size: 14px;
+}
+
+root : {
+	
+}
+
+/* # Flex */
+
+.flex {
+	display: flex;
+}
+
+.flex-col {
+	display: flex;
+	flex-direction: column;
+}
+
+/* # Fonts */
+
+.bold {
+	text-transform: uppercase;
+	font-size: 25px;
+}
+
+
+.dex {
+	z-index: -9;
+}
+
+
+.properties {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:top;
+}
